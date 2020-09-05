@@ -1,0 +1,3 @@
+[submodule "VIPER-template"]
+	path = VIPER-template
+	url = git@github.com:inesmartins/VIPER-template.git
