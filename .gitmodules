@@ -1,3 +1,6 @@
 [submodule "VIPER-template"]
 	path = VIPER-template
 	url = git@github.com:inesmartins/VIPER-template.git
+[submodule "MVVM-template"]
+	path = MVVM-template
+	url = git@github.com:inesmartins/MVVM-template.git
